@@ -1,2 +1,2 @@
 # watahbufalasheyp.github.io
-something that will become a site hopefully
+personal site im working on making. i was hosing it on neocities but thats kinda lame so im switching to github.
